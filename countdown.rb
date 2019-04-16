@@ -9,4 +9,5 @@ def countdown(number)
       break
     end
   end
+  return
 end
