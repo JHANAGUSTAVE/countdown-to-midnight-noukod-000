@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown(number)
+def countdown(10)
   number = 10
   loop do 
     number -=1
