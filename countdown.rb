@@ -4,6 +4,6 @@ def countdown(number)
   number = 10
   loop do 
     number -=1
-    if 
+    puts 
   end
 end
