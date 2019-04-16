@@ -7,5 +7,6 @@ def countdown(number)
     puts "#{number} SECOND(S)!"
     if number <= 10
       break
+    end
   end
 end
